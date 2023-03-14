@@ -1,7 +1,4 @@
-![Github](https://img.shields.io/github/tag/essembeh/pyfdupes.svg)
-![PyPi](https://img.shields.io/pypi/v/pyfdupes.svg)
-![Python](https://img.shields.io/pypi/pyversions/pyfdupes.svg)
-![CI](https://github.com/essembeh/pyfdupes/actions/workflows/poetry.yml/badge.svg)
+# ⚰️ This project is now part of [essembeh-tools](https://github.com/essembeh/essembeh-tools)
 
 # pyfdupes
 
